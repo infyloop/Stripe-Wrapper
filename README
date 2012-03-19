@@ -1,0 +1,7 @@
+This is a simple wrapper written over the stripe API. Please do not consider using this in case if your server is NOT PCI compliant. 
+The methods which have been covered allow you to:
+1. create a plan
+2. create a subscription
+3. charge a card
+
+GNU-GPL Licensed. 
